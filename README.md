@@ -1,20 +1,17 @@
 # Clubhouse UI Clone
 
-تطبيق Flutter يحاكي تصميم واجهة تطبيق Clubhouse.  
-يحتوي على:
-- شاشة رئيسية لعرض الغرف.
-- واجهة عرض تفاصيل الغرفة (Room Screen).
-- بطاقات المستخدمين والمتحدثين.
-- تصميم مبسط باستخدام `Material` و `Cupertino`.
+A Flutter application that replicates the user interface of the Clubhouse app.  
+The project includes:
+- Home screen to display available rooms.
+- Room details screen.
+- User and speaker cards.
+- Simple design using both `Material` and `Cupertino` widgets.
 
-## 📸 لقطات من التطبيق
-(يمكنك إضافة صور لاحقًا هنا بعد تشغيل التطبيق وأخذ Screenshots)
+## Requirements
+- Flutter 3.0 or higher
+- Dart 2.17 or higher
 
-##  المتطلبات
-- Flutter 3.0 أو أحدث
-- Dart 2.17 أو أحدث
-
-##  كيفية التشغيل
-1. استنسخ المستودع:
+## How to Run
+1. Clone the repository:
    ```bash
-   git clone https://github.com/AbdullahAlatabee/clubhouse-ui-clone.git
+   git clone https://github.com/USERNAME/clubhouse-ui-clone.git
